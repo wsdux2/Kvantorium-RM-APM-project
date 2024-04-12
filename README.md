@@ -2,7 +2,7 @@
 
 ### Описание проекта
 
-Данный проект посвящен топологической оптимизации деталей снегохода с использованием программного обеспечения для расчёта прочности "APM FEM" (https://apm.ru/) и программы для 3D моделирования "Компас" (https://kompas.ru/). 
+Данный проект посвящен топологической оптимизации деталей снегохода с использованием программного обеспечения для расчёта прочности "APM FEM" (https://apm.ru/) и программы для 3D моделирования "Компас" (https://kompas.ru/).
 
 ---
 
@@ -34,6 +34,6 @@
 ## Ссылки на репозитории
 
 1.   Мой репозиторий: https://github.com/wsdux2/Kvantorium-RM-APM-project/tree/main
-2.   Репозиторий руководителя: https://github.com/yaroslav-pukazov/Kvantorium-RM-APM-project
-3.   Репозиторий коллеги 1: https://github.com/he1latrigger/Kvantorium-RM-APM-project
-4.   Репозиторий коллеги 2: https://github.com/WhiskasShop/Kvantorium-RM-APM-project
+2.   Репозиторий руководителя проекта: https://github.com/yaroslav-pukazov/Kvantorium-RM-APM-project
+3.   Репозиторий коллеги he1latrigger: https://github.com/he1latrigger/Kvantorium-RM-APM-project
+4.   Репозиторий коллеги WhiskasShop: https://github.com/WhiskasShop/Kvantorium-RM-APM-project
